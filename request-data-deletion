@@ -1,0 +1,37 @@
+Solar Calorie Counter Data Deletion Request Steps.
+solarinum
+
+1. From the home page of the app, navigate to settings by pressing the gear icon.
+
+2. Press the "delete my data" button towards the bottom of the page. 
+
+3. Press confirm.
+
+The home calendar will be cleared of any meals logged.
+If an error is encountered, or for further questions, please fill out this form:
+https://forms.gle/DUqXSBtb8TcRNq798
+
+
+Types of data kept:
+  - custom foods
+    - food name (text)
+    - calories (integer)
+    - grams of protein (integer)
+  - meals logged
+    - calories (integer)
+    - grams of protein (integer)
+    - notes (text)
+    - timestamp (Firestore Timestamp)
+    - custom foods
+    - quantity for each food (integer)
+  - day
+    - calories (integer)
+    - grams of protein (integer)
+    - custom meals
+    - timestamp (Firestore Timestamp)
+
+Types of data deleted:
+  - all.
+
+Retention Period Following Deletion Request:
+  - zero.
