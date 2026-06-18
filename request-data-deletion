@@ -7,7 +7,8 @@ solarinum
 
 3. Press confirm.
 
-The home calendar will be cleared of any meals logged.
+Your data is now deleted.
+You will be returned to an empty home calendar.
 If an error is encountered, or for further questions, please fill out this form:
 https://forms.gle/DUqXSBtb8TcRNq798
 
@@ -29,6 +30,7 @@ Types of data kept:
     - grams of protein (integer)
     - custom meals
     - timestamp (Firestore Timestamp)
+  - home calendar starting hour (integer)
 
 Types of data deleted:
   - all.
@@ -37,5 +39,5 @@ Retention Period Following Deletion Request:
   - zero.
 
 Interaction data is not collected.
-Your Home Calendar Start, Font Size, Background Theme, and Font Style preferences are not saved to any server or associated with your account.
+Your Font Size, Background Theme, and Font Style preferences are not saved to any server or associated with your account.
 Your provided feedback is not associated with your account.
