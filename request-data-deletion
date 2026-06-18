@@ -3,7 +3,7 @@ solarinum
 
 1. From the home page of the app, navigate to settings by pressing the gear icon.
 
-2. Press the "delete my data" button towards the bottom of the page. 
+2. Press the "Delete Data" button towards the bottom of the page. 
 
 3. Press confirm.
 
@@ -35,3 +35,7 @@ Types of data deleted:
 
 Retention Period Following Deletion Request:
   - zero.
+
+Interaction data is not collected.
+Your Home Calendar Start, Font Size, Background Theme, and Font Style preferences are not saved to any server or associated with your account.
+Your provided feedback is not associated with your account.
