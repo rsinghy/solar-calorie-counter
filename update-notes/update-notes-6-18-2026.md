@@ -9,6 +9,9 @@ Changes:
    - "Your Foods" window length cap: was ~7 foods, now ~4 foods
 
 Fixes:
+ - General:
+   - Added a refresh prompt in case of a failed startup
+     
  - Calendar:
    - The calendar time labels now have a space between the number and am/pm
    - The font size of the timestamp of a meal/cluster now scales with the font size setting
