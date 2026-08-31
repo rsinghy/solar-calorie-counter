@@ -4,6 +4,7 @@ Public documentation for Solar Calorie Counter, a nutrition tracker on Google Pl
 Log your diet and track your meals weekly. 
 Free. 
 No ads. 
+No premiums. 
 No subscriptions. 
 
 Simplicity prioritized.
